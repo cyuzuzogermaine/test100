@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style>
+	h1{background-color: pink;
+		color: green;
+		width: 30px;
+        border-right border-radius: 40px;
+	}
+	form{
+		background-color: cyan;
+		color: gray;
+		width: 50%;
+		height: 100%;
+		border-radius: 120px;
+	}
+	input{
+		border-radius: 30px;
+	}
+	select{
+		border-radius: 50px;
+	}
+	
+nav{
+	color: yellow;
+	background-color: light green;
+}
+a{
+	font size:4px;
+float: left;
+paddor:20;
+text_decoration:under line
+}
+a horer{
+	color: blue;
+	background-color: darkblue;
+}
+h1{
+	text_align:center;
+}
+</style>
+</head>
